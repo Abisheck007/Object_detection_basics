@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['livelong', 'thankyou', 'thumbsdown', 'thumbsup']
+
+roboflow:
+  workspace: abisheck-b-moqgq
+  project: hand_signs-uqxft
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/abisheck-b-moqgq/hand_signs-uqxft/dataset/1
