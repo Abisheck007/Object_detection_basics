@@ -24,3 +24,8 @@ Example notebooks for testing
 📊 Evaluation with mAP metrics
 
 📦 Model exporting for inference
+
+<p align="center">
+  <img src="zdemo/Screenshot From 2025-07-25 16-39-10.png" alt="Demo Screenshot" width="600" style="border-radius:15px; border:2px solid #ddd;"/>
+</p>
+
